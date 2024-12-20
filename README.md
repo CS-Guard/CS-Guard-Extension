@@ -1,4 +1,4 @@
-Made by @zahidmm
+Made by [@zahidmm](https://github.com/zahidmm) [@MCavidd](https://github.com/MCavidd)
 # CSGuard Browser Extension 🛡️
 
 CSGuard is a powerful browser security extension that protects users from malicious websites using real-time threat detection powered by VirusTotal and AbuseIPDB APIs.
