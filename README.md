@@ -1,4 +1,4 @@
-Made by [@zahidmm](https://github.com/zahidmm) ; [@MCavidd](https://github.com/MCavidd)
+Made by [@zahidmm](https://github.com/zahidmm) ; [@MCavidd](https://github.com/MCavidd).
 Team Members: [AynurHeydarova](https://github.com/AynurHeydarova) ; [Khanaliyeva](https://github.com/Khanaliyeva) ; [aytac-42](https://github.com/aytac-42)
 # CSGuard Browser Extension 🛡️
 
