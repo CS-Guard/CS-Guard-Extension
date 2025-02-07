@@ -1,4 +1,4 @@
-- Product of csc.az
+- Product of azsec.az
 - Made by [@zahidmm](https://github.com/zahidmm) ; [@MCavidd](https://github.com/MCavidd). ;; Team Members: [AynurHeydarova](https://github.com/AynurHeydarova) ; [Khanaliyeva](https://github.com/Khanaliyeva) ; [aytac-42](https://github.com/aytac-42)
 # CSGuard Browser Extension 🛡️
 
@@ -82,7 +82,7 @@ Looking for enterprise-grade protection? Check out CSGuard+!
 - 💬 Priority support
 - 🔒 Enhanced security features
 
-Contact us at [info@csc.az](mailto:info@csc.az) for pricing and deployment options.
+Contact us at [info@azsec.az](mailto:info@azsec.az) for pricing and deployment options.
 
 ## Contributing 🤝
 
@@ -96,7 +96,7 @@ We welcome contributions! Please follow these steps:
 
 ## Support 💬
 
-- 📧 Email: support@csc.az
+- 📧 Email: [info@azsec.az](mailto:info@azsec.az)
 - 🐛 Issues: Submit via GitHub Issues
 
 ## License 📄
